@@ -8,7 +8,8 @@ This is a responsive landing page of One Card built in HTML and CSS.
 
 <br/>
 
-![desktop](./assets/desktop.png)
+![image](https://github.com/DeeptiDaisy/Cssq6-core-module-ppt/assets/109961309/8110f447-85d1-4b7f-b9f2-b2423f00ddce)
+
 
 <br/>
 
