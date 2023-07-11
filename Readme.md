@@ -14,7 +14,8 @@ This is a responsive landing page of One Card built in HTML and CSS.
 
 ### Mobile Layout:
 
-![mobile](./assets/mobile.png)
+ ![image](https://github.com/DeeptiDaisy/Cssq6-core-module-ppt/assets/109961309/8503ee9e-1c2f-4744-88e4-05cd2fb8f502)
+
 
 <br/>
 
