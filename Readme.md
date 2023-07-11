@@ -43,4 +43,4 @@ In this section, an information section is added which can turn background color
 
 ## Deployed Link
 
-<a href="https://onecard-assignmnt3.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://oncard-assignmnt3.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
